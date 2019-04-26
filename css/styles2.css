@@ -1,0 +1,39 @@
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: maroon;
+  text-align: left;
+}
+
+h2 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: orangered;
+  font-style: italic;
+}
+
+h3 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: purple
+}
+
+p {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: navy;
+}
+
+ul {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: teal;
+}
+  
+ol {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: teal;
+}
+
+img {
+  height: 100px;
+}
+
+em {
+  font-weight: bolder 
+}

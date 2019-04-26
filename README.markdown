@@ -3,10 +3,10 @@
 #### By Bernice Carbaugh
 
 ## Description
-These are the first web pages I'm creating for my Epicodus Intro to Programming class. This is just the first week, and these web pages are to practice basic HTML, Markdown, Git / GitHub.
+These are the first web pages I'm creating for my Epicodus Intro to Programming class. This is just the first week, and these web pages are to practice basic HTML, CSS, Markdown, Git / GitHub.
 
 ## Setup / Installation Requirements
-Open the HTML files on your browser
+Open the files on your browser
 
 ## Known Bugs
 None
@@ -16,8 +16,9 @@ For any questions or feedback, contact Bernice Carbaugh at bernicecarbaugh@yahoo
 
 ## Technologies Used
 HTML
+CSS
 Markdown
 
-### Legal
+## Legal
 *This software is licensed under the MIT License*
 Copyright (c) 2019 **Bernice Carbaugh**
