@@ -12,28 +12,36 @@ h2 {
 
 h3 {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  color: purple
+  color: orangered;
 }
 
 p {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  color: navy;
 }
 
 ul {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: teal;
 }
   
 ol {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img.small {
+  width: 150px;
+  border: 2px solid black;
+}
+
+.basecolor {
   color: teal;
 }
 
-img {
-  height: 100px;
+p.smallprint {
+  color: gray;
+  font-size: small;
+  font-family: 'Courier New', Courier, monospace;
 }
 
-em {
-  font-weight: bolder 
+.fave {
+  color: red ;
 }
