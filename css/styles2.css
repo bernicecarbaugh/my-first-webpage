@@ -1,3 +1,7 @@
+body {
+  background-color: lightgrey;  
+}
+
 h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: maroon;
@@ -30,13 +34,14 @@ ol {
 img.small {
   width: 150px;
   border: 2px solid black;
+  margin: 50px;
 }
 
 .basecolor {
   color: teal;
 }
 
-p.smallprint {
+.smallprint {
   color: gray;
   font-size: small;
   font-family: 'Courier New', Courier, monospace;
@@ -44,4 +49,27 @@ p.smallprint {
 
 .fave {
   color: red ;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  margin: 12px;
+  border: 2px solid green;
+  padding: 10px;
+  background-color: palegreen;
+}
+
+
+.column {
+  width: 300px;
+  float: left;
+}
+
+.fullsize {
+  width: 100%;
+}
+
+div {
+  float: left;
 }
